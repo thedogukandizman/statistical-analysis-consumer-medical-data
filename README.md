@@ -1,5 +1,6 @@
 # Statistical Analysis Project: Consumer Behavior & Medical Data
 ![d](https://github.com/user-attachments/assets/236e0e50-54ae-4486-8319-922f4df9ed74)
+![d2](https://github.com/user-attachments/assets/0df70ab6-c4e4-4339-994a-8bb49ad7fe61)
 
 ##  Project Overview
 This project demonstrates applied statistical analysis using Excel to analyze consumer purchasing patterns and medical outcomes data. The assignment covers multiple analytical techniques and statistical testing methods.
