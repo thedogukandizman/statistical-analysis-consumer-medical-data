@@ -1,0 +1,43 @@
+# Key Results Summary
+
+## Question 1: Station Wagon Purchase Analysis
+**Finding**: Family size is the primary driver of station wagon purchases
+- Large families with high income: **74.63%** purchase rate
+- Large families with low income: **73.68%** purchase rate  
+- Small families with high income: **7.14%** purchase rate
+- Small families with low income: **4.44%** purchase rate
+
+**Business Insight**: Income has minimal impact; family size determines purchasing behavior
+
+## Question 2: Hospital Performance Analysis
+**Finding**: Emergency Room (ER) significantly outperforms Community Hospital (CH)
+
+### Survival Rates by Risk Category:
+| Hospital | High Risk | Low Risk |
+|----------|-----------|----------|
+| ER       | 80.00%    | 92.50%   |
+| CH       | 68.18%    | 85.08%   |
+
+**Clinical Insight**: ER provides consistently better care across all risk categories
+
+## Question 3: Geographic Distance Analysis
+**Achievement**: Successfully implemented coordinate-based distance formula
+- Calculated distances between 20+ major US cities
+- Applied mathematical formula: `69 × √((lat1-lat2)² + (long1-long2)²)`
+- Results enable logistics and route optimization
+
+## Questions 4-8: Advanced Excel Applications
+**Technical Skills Demonstrated**:
+- Dynamic array functions and data sorting
+- TRANSPOSE function for data restructuring  
+- Multi-criteria filtering and analysis
+- Sales performance analytics across multiple dimensions
+- Advanced lookup and reference functions
+
+## Overall Impact
+This analysis demonstrates proficiency in:
+- Statistical analysis and interpretation
+- Healthcare analytics and performance metrics
+- Geographic and spatial analysis
+- Advanced Excel functions and data manipulation
+- Business intelligence and decision support
