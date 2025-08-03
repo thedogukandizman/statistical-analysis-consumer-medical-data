@@ -17,7 +17,7 @@ This project demonstrates applied statistical analysis using Excel to analyze co
 - **Q5**: Multi-method Data Processing - Advanced Excel function applications
 - **Q6-Q8**: Sales Data Analytics - Product performance and customer analysis
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Microsoft Excel**: Statistical functions, data analysis tools, pivot tables
 - **Statistical Methods**: Hypothesis testing, categorical data analysis, correlation analysis
 - **Data Visualization**: Charts and graphs for insights presentation
