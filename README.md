@@ -46,10 +46,10 @@ This project demonstrates applied statistical analysis using Excel to analyze co
 ##  Project Structure
 ```
 📁 statistical-analysis-project/
-├── 📄 Assignment2_DogukanDizman.xlsx    # Main analysis file
-├── 📸 screenshots/                      # Key visualizations
-├── 📝 README.md                        # Project documentation
-└── 📊 results-summary.md               # Key findings summary
+├──  Assignment2_DogukanDizman.xlsx    # Main analysis file
+├──  screenshots/                      # Key visualizations
+├──  README.md                        # Project documentation
+└──  results-summary.md               # Key findings summary
 ```
 
 ##  Business Applications
